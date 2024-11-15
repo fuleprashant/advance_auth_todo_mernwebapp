@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/fuleprashant/advance_auth_todo_mernwebapp#readme",
   "dependencies": {
+    "axios": "^1.7.7",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
+    "mongoose": "^8.8.1",
     "nodemon": "^3.1.7"
   }
 }
